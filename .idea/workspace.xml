@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f01b7fb-2582-48e3-93c9-0d88d770fb32" name="Default" comment="" />
+    <list default="true" id="9f01b7fb-2582-48e3-93c9-0d88d770fb32" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewTestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NewTestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/drivers/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Core/ActionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/ActionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CatalogPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestAbilityToBuyABrush.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestAbilityToChangeCity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestAbilityToLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/05e6578f-c78a-4f54-92fc-bea86fe7b947-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0c7e5050-5c51-4236-ba61-3fb781715741-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0ebead0b-134c-4b5c-a933-795f046e23fa-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/10bb4d6a-5af7-4c15-8d4e-8fd98d3ceb24-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/12013327-2fb9-411f-b44b-5500b7a933d9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/12e22a66-07c4-4249-b227-2abc9dd80df8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1510a004-eb78-44d5-bce3-82634ec5dc1a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/155b1e29-2c12-4645-bfb3-a2971118221b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/179d8c2f-dac6-4998-ab7c-d330f664bc0c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/339db850-a90b-4687-8602-cbceeda5d002-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/39c5001b-9ec0-4626-8fb5-4f03e8e8a7be-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3d01945f-bb79-48e2-89f6-c52d289bef75-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3fa7661d-c7a8-4623-a2ed-50e65967f150-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/488fc59c-4515-4f13-8e23-7b63de94dd38-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4b894c67-0dd8-446f-aeba-820575fcefe8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5148ce4a-0d0f-4256-bd05-07051dd02799-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/523c7103-0e3f-4ab4-ac7c-c909d1530ff9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/53424b33-a1b5-46d0-bc59-6219c81e8e86-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/57c218a1-bea7-4fa6-9526-fa4c6b2233fa-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5a49c593-78a9-489e-bbd1-bd4aa7b9f7e7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/61d54b2c-f514-48e1-b87f-263dfec2111b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/629a7b44-740a-4e42-83b9-1b6a40f997ab-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/66708713-e1cc-44a3-8d00-299a3342132b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6a692a2a-a197-4c71-b2a1-d8b734a4ae17-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6bb9bf8c-5160-4202-9f09-ed01437a620a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/71d099b3-a01e-43ec-8bcf-aa0c805924ab-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/71d848d9-82eb-47a7-b3ed-c23575709c07-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/74ec73d5-87d9-4d1d-ba4d-233930840913-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/77911ee4-6bbd-4f2a-a0e5-43fb89f2016d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/779d6d0a-3819-4f45-be0e-a5fae3af6cfd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7a1984de-dd91-4e06-9ab5-2143b0f78430-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7bb4b135-113a-446a-b798-49a5406e79b4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7cec1d3f-89b8-494f-8df7-b7e4643204b5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/84c791b6-dd72-4767-9312-642137801740-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9181af37-a510-416e-ac46-6ce26fc7a6d3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/92f6f8f0-6ebc-4237-a2f8-b52bfecc3593-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9463e3ab-12ce-47de-a628-b189561717c3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/95a36d33-458c-4c18-ba38-57f9aae5f2bc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9d81a03b-9bdc-4fb8-a871-023da85a5c8b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a12d3aa5-4a48-4a4a-958e-d1dd6b99cb32-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a82853ec-f905-48aa-a64d-347962e51cb5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/aa023264-9c91-4836-b0e4-821f975547bc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ac34af88-459b-45d4-9de4-28321351703e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b3285b9c-351c-4cf7-9dd4-5b760a3fe779-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b4268130-d350-40a0-962c-7055a2e1639b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b67cc8ad-a751-468d-b4e3-8be78bf43a42-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b928f028-bddb-40f3-988a-8ef3de69659d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/baa056e4-dfc8-4eba-90c9-9497a90d409b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bf6ed023-6bdb-4fed-b68b-f78bfacb5af5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bff75051-bbc7-43ae-a778-3abae5ac47f9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c4262fdb-960a-49ac-abb8-2325cc0e27b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c8126e37-7498-48b0-ae88-6581ca85dcae-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ca579731-1c84-4ed7-a3ea-dcfc2d3da9d3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cce29720-89cb-4ad6-95a6-5be998d03b9c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cd6a0c4d-1532-41cf-9c77-b8be7f33a8b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d5cbe87e-ec83-432e-b9cd-8dfb6721132d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/df54abfd-7b44-4b04-a430-630810f7f4b2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/eade0064-6717-4c83-b0dc-ea979e2e7b4e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/edac826b-1582-44fb-9d65-b5884784e365-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f2378e14-ee67-4021-89be-4dfd201fe271-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f440a908-c437-4f24-b403-f98b23efbaac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fb350204-120a-4d29-9438-38c4d4e9d96f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Core/ActionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Core/ActionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/NewTestProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CatalogPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CatalogPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CatalogPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CatalogPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestAbilityToBuyABrush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestAbilityToChangeCity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestAbilityToLogin.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,86 +138,50 @@
     </option>
   </component>
   <component name="ProjectId" id="1VLA4yDaepfxE99nQZDIUyHKs7s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\test\java\Core\Drivers" />
+      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\test\java\Core" />
+      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\main" />
+      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\test" />
+      <recent name="C:\Users\sorokin_da\IdeaProjects\NewTestProject\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="pages" />
       <recent name="Tests" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Дмитрий\GitHub\NewTestProject\src\test\java" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Tests" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\main" />
-      <recent name="D:\Дмитрий\Информатика\Магистратура\2 курс\Тестирование\NewTestProject\src\test" />
-      <recent name="C:\Users\sorokin_da\IdeaProjects\NewTestProject\src\main\java" />
-      <recent name="C:\Users\sorokin_da\IdeaProjects\NewTestProject\src\main\Tests" />
-      <recent name="C:\Users\sorokin_da\IdeaProjects\NewTestProject\src\main\PageObjects" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestAbilityToLogin.login">
+  <component name="RunManager" selected="TestNG.D:/Дмитрий/Информатика/Магистратура/2 курс/Тестирование/NewTestProject/src/test/java/testng.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="TestAbilityToBuyABrush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.TestAbilityToBuyABrush" />
-      <module name="NewTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAbilityToChangeCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.TestAbilityToChangeCity" />
-      <module name="NewTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAbilityToLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.TestAbilityToLogin" />
-      <module name="NewTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -124,17 +196,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAbilityToBuyABrush.buyABrush" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/Дмитрий/Информатика/Магистратура/2 курс/Тестирование/NewTestProject/src/test/java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewTestProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddNthProductToCart.search" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewTestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestAbilityToBuyABrush" />
-      <option name="METHOD_NAME" value="buyABrush" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestAddNthProductToCart" />
+      <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -143,17 +226,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAbilityToLogin.login" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAddToFavourites.search" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewTestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestAbilityToLogin" />
-      <option name="METHOD_NAME" value="login" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestAddToFavourites" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConfirmTramTrackIsRealistic.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestConfirmTramTrackIsRealistic" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFirstSearchResult.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestFirstSearchResult" />
+      <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -181,19 +302,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestAbilityToLogin" />
-      <item itemvalue="Application.TestAbilityToChangeCity" />
-      <item itemvalue="Application.TestAbilityToBuyABrush" />
-      <item itemvalue="TestNG.TestAbilityToBuyABrush.buyABrush" />
-      <item itemvalue="TestNG.TestAbilityToLogin.login" />
+      <item itemvalue="TestNG.TestConfirmTramTrackIsRealistic.search" />
+      <item itemvalue="TestNG.TestAddToFavourites.search" />
+      <item itemvalue="TestNG.TestAddNthProductToCart.search" />
+      <item itemvalue="TestNG.D:/Дмитрий/Информатика/Магистратура/2 курс/Тестирование/NewTestProject/src/test/java/testng.xml" />
+      <item itemvalue="TestNG.TestFirstSearchResult.search" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestAbilityToLogin.login" />
-        <item itemvalue="TestNG.TestAbilityToBuyABrush.buyABrush" />
-        <item itemvalue="Application.TestAbilityToBuyABrush" />
-        <item itemvalue="Application.TestAbilityToChangeCity" />
-        <item itemvalue="Application.TestAbilityToLogin" />
+        <item itemvalue="TestNG.D:/Дмитрий/Информатика/Магистратура/2 курс/Тестирование/NewTestProject/src/test/java/testng.xml" />
+        <item itemvalue="TestNG.TestFirstSearchResult.search" />
+        <item itemvalue="TestNG.TestAddNthProductToCart.search" />
+        <item itemvalue="TestNG.TestAddToFavourites.search" />
+        <item itemvalue="TestNG.TestConfirmTramTrackIsRealistic.search" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +344,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1680270423521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680270423521" />
+    <state x="703" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1680261119826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1680261119826" />
     <state x="537" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1680177856839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -231,29 +360,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1680177911638" />
-    <state width="1316" height="273" key="GridCell.Tab.0.bottom" timestamp="1680183640865">
+    <state x="677" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1680249225318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1316" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1680183640865" />
-    <state width="1316" height="273" key="GridCell.Tab.0.center" timestamp="1680183640865">
+    <state x="677" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680249225318" />
+    <state x="761" y="343" key="FileChooserDialogImpl" timestamp="1680274104178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1316" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1680183640865" />
-    <state width="1316" height="273" key="GridCell.Tab.0.left" timestamp="1680183640865">
+    <state x="761" y="343" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1680274104178" />
+    <state width="1484" height="225" key="GridCell.Tab.0.bottom" timestamp="1680283089621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1316" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1680183640865" />
-    <state width="1316" height="273" key="GridCell.Tab.0.right" timestamp="1680183640865">
+    <state width="1484" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1680283089621" />
+    <state width="1484" height="225" key="GridCell.Tab.0.center" timestamp="1680283089621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1316" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1680183640865" />
-    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1680177982317">
+    <state width="1484" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1680283089621" />
+    <state width="1484" height="225" key="GridCell.Tab.0.left" timestamp="1680283089621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680177982317" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1680178862604">
+    <state width="1484" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1680283089621" />
+    <state width="1484" height="225" key="GridCell.Tab.0.right" timestamp="1680283089621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680178862604" />
+    <state width="1484" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1680283089621" />
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1680272195679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680272195679" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1680274292411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1680274292411" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1680274048838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680274048838" />
   </component>
 </project>

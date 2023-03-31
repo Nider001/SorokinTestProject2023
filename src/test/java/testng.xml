@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke-Test-Suite" thread-count="2" parallel="methods">
+    <test name="SmokeTest-Chrome" >
+        <parameter name="browser" value="1"/>
+        <parameter name="n" value="1"/>
+        <classes>
+            <class name="tests.TestFirstSearchResult" />
+            <class name="tests.TestFindTramTrack" />
+            <class name="tests.TestConfirmTramTrackIsRealistic" />
+            <class name="tests.TestAddToFavourites" />
+            <class name="tests.TestAddNthProductToCart" />
+        </classes>
+    </test>
+    <test name="SmokeTest-FireFox" >
+        <parameter name="browser" value="2"/>
+        <parameter name="n" value="2"/>
+        <classes>
+            <class name="tests.TestFirstSearchResult" />
+            <class name="tests.TestFindTramTrack" />
+            <class name="tests.TestConfirmTramTrackIsRealistic" />
+            <class name="tests.TestAddToFavourites" />
+            <class name="tests.TestAddNthProductToCart" />
+        </classes>
+    </test>
+</suite>
